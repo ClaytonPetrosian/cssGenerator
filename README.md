@@ -14,4 +14,4 @@
     s=sa.reverse().join(" ");
     console.log(s);
     return s;
-  }
+    }
