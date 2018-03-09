@@ -1,7 +1,7 @@
 # cssGenerator
 自动根据点击的dom生成css选择器
 
-`var cssGenerate=function(event){
+  var cssGenerate=function(event){
   var node=event.target;
 
   var s='';
@@ -15,4 +15,3 @@
   console.log(s);
   return s;
 }
-`
